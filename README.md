@@ -12,6 +12,6 @@ Este repositorio contiene los siguientes archivos:
 * vit_model: código de python con todos los bloques que permiten la construcción del Vision Transformer utilizado para clasificar.
 * train.py: código con las funciones utilizadas para realizar el entrenamiento del modelo y mostrar los resultados obtenidos.
 * Notebooks/: directorio que contiene los seis notebooks en los cuales se realizaron los 6 entrenamientos solicitados, tanto los entrenamiento desde cero como utilizando *transfer learning*.
-* demo/: directorio que contiene 6 imágenes de prueba y un notebook que permite probar los resultados del modelo entrenado al utilizar 6 clases. Importante notar que este notebook está diseñado para ejecutarse de forma **independiente y secuencial** en Google Colab.
+* demo/: directorio que contiene 6 imágenes de prueba cuyo nombre refleja la clase a la que pertenecen y un notebook que permite probar los resultados del modelo entrenado al utilizar 6 clases. Importante notar que este notebook está diseñado para ejecutarse de forma **independiente y secuencial** en Google Colab.
 
 ***
